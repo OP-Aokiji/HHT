@@ -1,0 +1,8 @@
+D:\C#\HHT\NUnit\bin\Debug\NUnit.dll
+D:\C#\HHT\NUnit\bin\Debug\NUnit.pdb
+D:\C#\HHT\NUnit\bin\Debug\HHT.UI.exe
+D:\C#\HHT\NUnit\bin\Debug\nunit.framework.dll
+D:\C#\HHT\NUnit\bin\Debug\HHT.UI.pdb
+D:\C#\HHT\NUnit\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\HHT\NUnit\obj\Debug\NUnit.dll
+D:\C#\HHT\NUnit\obj\Debug\NUnit.pdb

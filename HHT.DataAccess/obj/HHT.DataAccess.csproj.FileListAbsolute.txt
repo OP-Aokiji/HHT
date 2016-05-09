@@ -1,0 +1,10 @@
+D:\MY PROJECT\HHT\HHT.DataAccess\bin\Debug\HHT.DataAccess.dll
+D:\MY PROJECT\HHT\HHT.DataAccess\bin\Debug\HHT.DataAccess.pdb
+D:\MY PROJECT\HHT\HHT.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\MY PROJECT\HHT\HHT.DataAccess\obj\Debug\HHT.DataAccess.dll
+D:\MY PROJECT\HHT\HHT.DataAccess\obj\Debug\HHT.DataAccess.pdb
+D:\C#\HHT\HHT.DataAccess\bin\Debug\HHT.DataAccess.dll
+D:\C#\HHT\HHT.DataAccess\bin\Debug\HHT.DataAccess.pdb
+D:\C#\HHT\HHT.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\HHT\HHT.DataAccess\obj\Debug\HHT.DataAccess.dll
+D:\C#\HHT\HHT.DataAccess\obj\Debug\HHT.DataAccess.pdb

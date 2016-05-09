@@ -1,0 +1,14 @@
+D:\MY PROJECT\HHT\HHT.Framework\bin\Debug\HHT.Framework.dll
+D:\MY PROJECT\HHT\HHT.Framework\bin\Debug\HHT.Framework.pdb
+D:\MY PROJECT\HHT\HHT.Framework\obj\Debug\ResolveAssemblyReference.cache
+D:\MY PROJECT\HHT\HHT.Framework\obj\Debug\HHT.Framework.Controls.BaseForm.resources
+D:\MY PROJECT\HHT\HHT.Framework\obj\Debug\HHT.Framework.csproj.GenerateResource.Cache
+D:\MY PROJECT\HHT\HHT.Framework\obj\Debug\HHT.Framework.dll
+D:\MY PROJECT\HHT\HHT.Framework\obj\Debug\HHT.Framework.pdb
+D:\C#\HHT\HHT.Framework\bin\Debug\HHT.Framework.dll
+D:\C#\HHT\HHT.Framework\bin\Debug\HHT.Framework.pdb
+D:\C#\HHT\HHT.Framework\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\HHT\HHT.Framework\obj\Debug\HHT.Framework.Controls.BaseForm.resources
+D:\C#\HHT\HHT.Framework\obj\Debug\HHT.Framework.csproj.GenerateResource.Cache
+D:\C#\HHT\HHT.Framework\obj\Debug\HHT.Framework.dll
+D:\C#\HHT\HHT.Framework\obj\Debug\HHT.Framework.pdb
