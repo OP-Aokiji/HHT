@@ -8,20 +8,24 @@ using System.Windows.Forms;
 
 namespace HHT.UI
 {
-    public partial class MainForm : Form
+    public partial class MainForm : HHT.Framework.Controls.MyForm
     {
         public MainForm()
         {
             InitializeComponent();
-            this.Size = new Size(240, 300);
-            this.MaximizeBox = false;
-            this.MinimizeBox = false;
+        }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            
         }
 
         private void btnGrabList_Click(object sender, EventArgs e)
         {
-            GrabListForm gl = new GrabListForm();
-            gl.ShowDialog();
+            GrabListForm frm = new GrabListForm();
+            frm.ShowDialog();
         }
+
     }
 }
+

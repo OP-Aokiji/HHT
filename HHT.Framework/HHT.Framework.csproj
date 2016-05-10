@@ -44,6 +44,7 @@
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="HHT.Framework, Version=1.0.5973.20387, Culture=neutral, processorArchitecture=MSIL" />
     <Reference Include="mscorlib" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -52,18 +53,90 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Common\Constants.cs" />
     <Compile Include="Controls\BaseForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Controls\BaseForm.Designer.cs">
       <DependentUpon>BaseForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Controls\MyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\MyForm.Designer.cs">
+      <DependentUpon>MyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MyDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\MyDialog.Designer.cs">
+      <DependentUpon>MyDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IConstraint.cs" />
+    <Compile Include="IContainerControls.cs" />
+    <Compile Include="IControls.cs" />
+    <Compile Include="ITransactionControls.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControls\MyCheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\MyCheckBox.Designer.cs">
+      <DependentUpon>MyCheckBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\MyComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\MyComboBox.Designer.cs">
+      <DependentUpon>MyComboBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\MyDateTimePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\MyDateTimePicker.Designer.cs">
+      <DependentUpon>MyDateTimePicker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\MyListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\MyListBox.Designer.cs">
+      <DependentUpon>MyListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\MyRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\MyRadioButton.Designer.cs">
+      <DependentUpon>MyRadioButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\MyTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\MyTextBox.Designer.cs">
+      <DependentUpon>MyTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ValidationHandler\frmValidationMsg.cs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ValidationHandler\frmValidationMsg.cs.Designer.cs">
+      <DependentUpon>frmValidationMsg.cs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ValidationHandler\ValidationError.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Controls\BaseForm.resx">
       <SubType>Designer</SubType>
       <DependentUpon>BaseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MyForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MyDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MyDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ValidationHandler\frmValidationMsg.cs.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmValidationMsg.cs.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.v1.targets" />

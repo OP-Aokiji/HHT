@@ -59,6 +59,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\HHT.Framework\HHT.Framework.csproj">
+      <Project>{8D22C3FC-BE00-4290-8EAF-39281C6DF4C7}</Project>
+      <Name>HHT.Framework %28HHT.Framework\HHT.Framework%29</Name>
+    </ProjectReference>
     <ProjectReference Include="..\HHT.UI\HHT.UI.csproj">
       <Project>{677F7CD3-2DC6-43FD-A678-CF81B1CD890E}</Project>
       <Name>HHT.UI</Name>

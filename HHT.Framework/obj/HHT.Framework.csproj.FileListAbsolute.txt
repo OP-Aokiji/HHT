@@ -12,3 +12,13 @@ D:\C#\HHT\HHT.Framework\obj\Debug\HHT.Framework.Controls.BaseForm.resources
 D:\C#\HHT\HHT.Framework\obj\Debug\HHT.Framework.csproj.GenerateResource.Cache
 D:\C#\HHT\HHT.Framework\obj\Debug\HHT.Framework.dll
 D:\C#\HHT\HHT.Framework\obj\Debug\HHT.Framework.pdb
+D:\ProjectC\HHT\HHT.Framework\bin\Debug\HHT.Framework.pdb
+D:\ProjectC\HHT\HHT.Framework\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectC\HHT\HHT.Framework\obj\Debug\HHT.Framework.Controls.BaseForm.resources
+D:\ProjectC\HHT\HHT.Framework\obj\Debug\HHT.Framework.Controls.MyForm.resources
+D:\ProjectC\HHT\HHT.Framework\obj\Debug\HHT.Framework.csproj.GenerateResource.Cache
+D:\ProjectC\HHT\HHT.Framework\obj\Debug\HHT.Framework.dll
+D:\ProjectC\HHT\HHT.Framework\obj\Debug\HHT.Framework.pdb
+D:\ProjectC\HHT\HHT.Framework\obj\Debug\HHT.Framework.ValidationHandler.frmValidationMsg.resources
+D:\ProjectC\HHT\HHT.Framework\bin\Debug\HHT.Framework.dll
+D:\ProjectC\HHT\HHT.Framework\obj\Debug\HHT.Framework.Controls.MyDialog.resources

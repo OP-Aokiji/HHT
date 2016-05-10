@@ -44,6 +44,10 @@
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="HHT.Framework, Version=1.0.5973.20387, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HHT.Framework\bin\Debug\HHT.Framework.dll</HintPath>
+    </Reference>
     <Reference Include="mscorlib" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -103,6 +107,10 @@
     <ProjectReference Include="..\HHT.DataAccess\HHT.DataAccess.csproj">
       <Project>{F9611732-8244-4A3A-96BE-BBAC4DB2C2D4}</Project>
       <Name>HHT.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HHT.Framework\HHT.Framework.csproj">
+      <Project>{8D22C3FC-BE00-4290-8EAF-39281C6DF4C7}</Project>
+      <Name>HHT.Framework %28HHT.Framework\HHT.Framework%29</Name>
     </ProjectReference>
     <ProjectReference Include="..\HHT.Service\HHT.Service.csproj">
       <Project>{8ED0EBEE-25F9-41C9-86FD-1ED23177C468}</Project>

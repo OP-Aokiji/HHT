@@ -4,6 +4,7 @@ using System.Text;
 using NUnit.Framework;
 using HHT.UI;
 using System.Windows.Forms;
+using HHT.Framework;
 
 namespace NUnit
 {
@@ -13,7 +14,8 @@ namespace NUnit
         [Test]
         public void PlusNUnit()
         {
-            Application.Run(new LoginForm());
+            //Application.Run(new LoginForm());
+            new LoginForm().ShowDialog();
         }
     }
 }

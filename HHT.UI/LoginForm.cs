@@ -8,20 +8,23 @@ using System.Windows.Forms;
 
 namespace HHT.UI
 {
-    public partial class LoginForm : Form
+    public partial class LoginForm : HHT.Framework.Controls.MyForm
     {
         public LoginForm()
         {
             InitializeComponent();
-            this.Size = new Size(240, 300);
-            this.MaximizeBox = false;
-            this.MinimizeBox = false;
         }
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            MainForm main = new MainForm();
-            main.Show();
+
+        }
+
+        private void btnLogin_Click_1(object sender, EventArgs e)
+        {
+            MainForm frm = new MainForm();
+            frm.Show();
         }
     }
 }
+

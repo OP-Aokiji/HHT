@@ -8,3 +8,8 @@ D:\C#\HHT\HHT.Service\bin\Debug\HHT.Service.pdb
 D:\C#\HHT\HHT.Service\obj\Debug\ResolveAssemblyReference.cache
 D:\C#\HHT\HHT.Service\obj\Debug\HHT.Service.dll
 D:\C#\HHT\HHT.Service\obj\Debug\HHT.Service.pdb
+D:\ProjectC\HHT\HHT.Service\bin\Debug\HHT.Service.dll
+D:\ProjectC\HHT\HHT.Service\bin\Debug\HHT.Service.pdb
+D:\ProjectC\HHT\HHT.Service\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectC\HHT\HHT.Service\obj\Debug\HHT.Service.dll
+D:\ProjectC\HHT\HHT.Service\obj\Debug\HHT.Service.pdb

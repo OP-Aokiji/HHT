@@ -6,7 +6,6 @@ namespace HHT.Framework.Controls
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
-        private System.Windows.Forms.MainMenu mainMenu1;
 
         /// <summary>
         /// Clean up any resources being used.
@@ -29,7 +28,6 @@ namespace HHT.Framework.Controls
         /// </summary>
         private void InitializeComponent()
         {
-            this.mainMenu1 = new System.Windows.Forms.MainMenu();
             this.SuspendLayout();
             // 
             // BaseForm
@@ -38,9 +36,7 @@ namespace HHT.Framework.Controls
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.AutoScroll = true;
             this.ClientSize = new System.Drawing.Size(238, 275);
-            this.Menu = this.mainMenu1;
             this.Name = "BaseForm";
-            this.Text = "BaseForm";
             this.ResumeLayout(false);
 
         }

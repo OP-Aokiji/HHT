@@ -6,3 +6,13 @@ D:\C#\HHT\NUnit\bin\Debug\HHT.UI.pdb
 D:\C#\HHT\NUnit\obj\Debug\ResolveAssemblyReference.cache
 D:\C#\HHT\NUnit\obj\Debug\NUnit.dll
 D:\C#\HHT\NUnit\obj\Debug\NUnit.pdb
+D:\ProjectC\HHT\NUnit\bin\Debug\NUnit.dll
+D:\ProjectC\HHT\NUnit\bin\Debug\NUnit.pdb
+D:\ProjectC\HHT\NUnit\bin\Debug\HHT.UI.exe
+D:\ProjectC\HHT\NUnit\bin\Debug\nunit.framework.dll
+D:\ProjectC\HHT\NUnit\bin\Debug\HHT.UI.pdb
+D:\ProjectC\HHT\NUnit\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectC\HHT\NUnit\obj\Debug\NUnit.dll
+D:\ProjectC\HHT\NUnit\obj\Debug\NUnit.pdb
+D:\ProjectC\HHT\NUnit\bin\Debug\HHT.Framework.dll
+D:\ProjectC\HHT\NUnit\bin\Debug\HHT.Framework.pdb

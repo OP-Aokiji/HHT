@@ -8,14 +8,12 @@ using System.Windows.Forms;
 
 namespace HHT.UI
 {
-    public partial class GrabListForm : Form
+    public partial class GrabListForm : HHT.Framework.Controls.MyDialog
     {
         public GrabListForm()
         {
             InitializeComponent();
-            this.Size = new Size(240, 300);
-            this.MaximizeBox = false;
-            this.MinimizeBox = false;
         }
     }
 }
+
