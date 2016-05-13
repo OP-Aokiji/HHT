@@ -13,3 +13,8 @@ D:\ProjectC\HHT\HHT.Common\bin\Debug\HHT.Common.pdb
 D:\ProjectC\HHT\HHT.Common\obj\Debug\ResolveAssemblyReference.cache
 D:\ProjectC\HHT\HHT.Common\obj\Debug\HHT.Common.dll
 D:\ProjectC\HHT\HHT.Common\obj\Debug\HHT.Common.pdb
+D:\MY PROJECT\HHT\HHT\HHT\HHT.Common\bin\Debug\HHT.Common.dll
+D:\MY PROJECT\HHT\HHT\HHT\HHT.Common\bin\Debug\HHT.Common.pdb
+D:\MY PROJECT\HHT\HHT\HHT\HHT.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\MY PROJECT\HHT\HHT\HHT\HHT.Common\obj\Debug\HHT.Common.dll
+D:\MY PROJECT\HHT\HHT\HHT\HHT.Common\obj\Debug\HHT.Common.pdb

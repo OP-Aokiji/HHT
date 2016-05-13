@@ -4,6 +4,7 @@ using System.Text;
 
 namespace HHT.Framework
 {
+    //Added by Khoa
     interface IContainerControls
     {
         bool validations(System.Windows.Forms.Control.ControlCollection controls);

@@ -16,3 +16,14 @@ D:\ProjectC\HHT\NUnit\obj\Debug\NUnit.dll
 D:\ProjectC\HHT\NUnit\obj\Debug\NUnit.pdb
 D:\ProjectC\HHT\NUnit\bin\Debug\HHT.Framework.dll
 D:\ProjectC\HHT\NUnit\bin\Debug\HHT.Framework.pdb
+D:\MY PROJECT\HHT\HHT\HHT\NUnit\bin\Debug\NUnit.dll
+D:\MY PROJECT\HHT\HHT\HHT\NUnit\bin\Debug\NUnit.pdb
+D:\MY PROJECT\HHT\HHT\HHT\NUnit\bin\Debug\HHT.Framework.dll
+D:\MY PROJECT\HHT\HHT\HHT\NUnit\bin\Debug\HHT.UI.exe
+D:\MY PROJECT\HHT\HHT\HHT\NUnit\bin\Debug\nunit.framework.dll
+D:\MY PROJECT\HHT\HHT\HHT\NUnit\bin\Debug\HHT.UI.pdb
+D:\MY PROJECT\HHT\HHT\HHT\NUnit\bin\Debug\HHT.Framework.pdb
+D:\MY PROJECT\HHT\HHT\HHT\NUnit\bin\Debug\nunit.framework.xml
+D:\MY PROJECT\HHT\HHT\HHT\NUnit\obj\Debug\ResolveAssemblyReference.cache
+D:\MY PROJECT\HHT\HHT\HHT\NUnit\obj\Debug\NUnit.dll
+D:\MY PROJECT\HHT\HHT\HHT\NUnit\obj\Debug\NUnit.pdb

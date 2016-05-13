@@ -13,3 +13,8 @@ D:\ProjectC\HHT\HHT.DataAccess\bin\Debug\HHT.DataAccess.pdb
 D:\ProjectC\HHT\HHT.DataAccess\obj\Debug\ResolveAssemblyReference.cache
 D:\ProjectC\HHT\HHT.DataAccess\obj\Debug\HHT.DataAccess.dll
 D:\ProjectC\HHT\HHT.DataAccess\obj\Debug\HHT.DataAccess.pdb
+D:\MY PROJECT\HHT\HHT\HHT\HHT.DataAccess\bin\Debug\HHT.DataAccess.dll
+D:\MY PROJECT\HHT\HHT\HHT\HHT.DataAccess\bin\Debug\HHT.DataAccess.pdb
+D:\MY PROJECT\HHT\HHT\HHT\HHT.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\MY PROJECT\HHT\HHT\HHT\HHT.DataAccess\obj\Debug\HHT.DataAccess.dll
+D:\MY PROJECT\HHT\HHT\HHT\HHT.DataAccess\obj\Debug\HHT.DataAccess.pdb

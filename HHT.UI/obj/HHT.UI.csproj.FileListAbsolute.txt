@@ -41,3 +41,21 @@ D:\ProjectC\HHT\HHT.UI\obj\Debug\HHT.UI.pdb
 D:\ProjectC\HHT\HHT.UI\obj\Debug\HHT.UI.LoginForm.resources
 D:\ProjectC\HHT\HHT.UI\obj\Debug\HHT.UI.GrabListForm.resources
 D:\ProjectC\HHT\HHT.UI\obj\Debug\HHT.UI.MainForm.resources
+D:\MY PROJECT\HHT\HHT\HHT\HHT.UI\bin\Debug\HHT.UI.exe
+D:\MY PROJECT\HHT\HHT\HHT\HHT.UI\bin\Debug\HHT.UI.pdb
+D:\MY PROJECT\HHT\HHT\HHT\HHT.UI\bin\Debug\HHT.Common.dll
+D:\MY PROJECT\HHT\HHT\HHT\HHT.UI\bin\Debug\HHT.DataAccess.dll
+D:\MY PROJECT\HHT\HHT\HHT\HHT.UI\bin\Debug\HHT.Framework.dll
+D:\MY PROJECT\HHT\HHT\HHT\HHT.UI\bin\Debug\HHT.Service.dll
+D:\MY PROJECT\HHT\HHT\HHT\HHT.UI\bin\Debug\HHT.Common.pdb
+D:\MY PROJECT\HHT\HHT\HHT\HHT.UI\bin\Debug\HHT.DataAccess.pdb
+D:\MY PROJECT\HHT\HHT\HHT\HHT.UI\bin\Debug\HHT.Framework.pdb
+D:\MY PROJECT\HHT\HHT\HHT\HHT.UI\bin\Debug\HHT.Service.pdb
+D:\MY PROJECT\HHT\HHT\HHT\HHT.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\MY PROJECT\HHT\HHT\HHT\HHT.UI\obj\Debug\HHT.UI.GrabListForm.resources
+D:\MY PROJECT\HHT\HHT\HHT\HHT.UI\obj\Debug\HHT.UI.LoginForm.resources
+D:\MY PROJECT\HHT\HHT\HHT\HHT.UI\obj\Debug\HHT.UI.MainForm.resources
+D:\MY PROJECT\HHT\HHT\HHT\HHT.UI\obj\Debug\HHT.UI.Properties.Resources.resources
+D:\MY PROJECT\HHT\HHT\HHT\HHT.UI\obj\Debug\HHT.UI.csproj.GenerateResource.Cache
+D:\MY PROJECT\HHT\HHT\HHT\HHT.UI\obj\Debug\HHT.UI.exe
+D:\MY PROJECT\HHT\HHT\HHT\HHT.UI\obj\Debug\HHT.UI.pdb
